@@ -31,6 +31,8 @@ should i save my knock
 
 should i change color
 
+![ok](images.jpg)
+
 that creates constant decisions
 
 ⚔️ 2 aggression
