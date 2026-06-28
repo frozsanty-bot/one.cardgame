@@ -1,264 +1,260 @@
-# ONE / one.cardgame
-website for my UNO-inspired game i am currently making
+# one onecardgame
+website for my uno-inspired game i am currently making
 
-To me, ONE isn't just "another UNO clone."
+one isnt just another uno clone
 
-It's a faster, more chaotic, and more strategic evolution of UNO where almost every turn gives the player meaningful decisions instead of simply matching a color or drawing.
+its a faster more chaotic and more strategic evolution of uno where almost every turn gives the player meaningful decisions instead of simply matching a color or drawing
 
-The core idea isn't "play your cards."
+the core idea isnt play ur cards
 
-It's:
+its
 
-"Use your hand as a weapon."
+use ur hand as a weapon
 
-The three pillars of ONE
-🃏 1. Freedom
+the three pillars of one
+the freedom
+unlike uno special cards arent tied to colors
 
-Unlike UNO, special cards aren't tied to colors.
+that changes everything
 
-That changes everything.
+instead of
 
-Instead of:
+i cant play :(
 
-"I can't play."
+players r thinking :thinking:
+should i play my reverse now 
+should i save my knock
+should i change color
 
-Players are thinking:
+that creates constant decisions
 
-"Should I play my Reverse now?"
+⚔️ 2 aggression
 
-"Should I save my Knock?"
+almost every special card hurts somebody
 
-"Should I Change Color?"
+draw stacking
 
-That creates constant decisions.
+reverse
 
-⚔️ 2. Aggression
+skip
 
-Almost every special card hurts somebody.
+knock
 
-Draw stacking.
+change color
 
-Reverse.
+theyre all offensive tools
 
-Skip.
+one encourages players to interfere with each other constantly
 
-Knock.
+🧠 3 resource management
 
-Change Color.
+this is my favorite part
 
-They're all offensive tools.
+a draw 2 isnt just a draw 2
 
-ONE encourages players to interfere with each other constantly.
-
-🧠 3. Resource management
-
-This is my favorite part.
-
-A Draw 2 isn't just a Draw 2.
-
-It's also:
+its also
 
 defense
 offense
 combo starter
 draw stack extender
 
-Same for Self Skip.
+same for self skip
 
-It isn't just skipping.
+it isnt just skipping
 
-It's a defensive card.
+its a defensive card
 
-What makes ONE different?
+what makes one different
 
-These mechanics.
+these mechanics
 
-Knock
+knock
 
-Probably the most unique mechanic.
+prolly the most unique mechanic
 
-Instead of just attacking...
+instead of just attacking
 
-You choose a color...
+u choose a color
 
-...and every numbered card of that color disappears.
+and every numbered card of that color disappears
 
-That completely changes how players think.
+that completely changes how players think
 
-Instead of asking
+instead of asking
 
-"Do I have green?"
+do i have green
 
 they ask
 
-"Is green dangerous to keep?"
+is green dangerous to keep
 
-Draw stacking
+draw stacking
 
-This is HUGE.
+this is huge
 
-Imagine:
+imagine
 
-+2
-
-↓
-
-+4
+2
 
 ↓
 
-+10
+4
 
 ↓
 
-Self Skip
+10
 
 ↓
 
-+18
+self skip
 
-That's hilarious.
+↓
 
-Self Skip
+18
 
-One of my favorite mechanics.
+thats hilarious
 
-Instead of
+self skip
 
-"I lose my turn."
+one of my favorite mechanics
 
-It's
+instead of
 
-"I refuse your Draw stack."
+i lose my turn
 
-Very different feeling.
+its
 
-Color Wheel
+i refuse ur draw stack
 
-Instead of instantly changing colors...
+very different feeling
 
-Players physically choose.
+color wheel
 
-Tiny thing.
+instead of instantly changing colors
 
-Big improvement.
+players physically choose
 
-The game's personality
+tiny thing
 
-Right now...
+big improvement
 
-I'd describe ONE as
+the games personality
 
-Simple to learn. Hard to master.
+right now
 
-That's actually a really good place to be.
+id describe one as
 
-What should a new player know?
+simple to learn hard to master
 
-If someone opens ONE for the first time...
+thats actually a rlly good place to be
 
-I'd tell them exactly this.
+what should a new player know
 
-Rule 1
+if sum1 opens one for the first time
 
-Play a numbered card that matches
+id tell them exactly this
+
+rule 1
+
+play a numbered card that matches
 
 color
 
 or
 
 number
-Rule 2
+rule 2
 
-Special cards ignore color.
+special cards ignore color
 
-You can play them almost whenever you want.
+u can play them almost whenever u want
 
-Rule 3
+rule 3
 
-Draw cards stack.
+draw cards stack
 
-If someone attacks you...
+if sum1 attacks u
 
-Fight back.
+fight back
 
-Rule 4
+rule 4
 
-Self Skip can save you from a Draw stack.
+self skip can save u from a draw stack
 
-Rule 5
+rule 5
 
-Change Color changes the current color for everyone.
+change color changes the current color for every1
 
-Rule 6
+rule 6
 
-Knock removes every numbered card of one chosen color from your hand.
+knock removes every numbered card of one chosen color from ur hand
 
-Things players will learn over time
+things players will learn over time
 
-These shouldn't be in the tutorial.
+these shouldnt be in the tutorial
 
-They're discoveries.
+theyre discoveries
 
-Like...
+like
 
-"I should save my Knock until I have six blue cards."
-
-or
-
-"I should save Reverse for Draw stacks."
+i should save my knock until i have six blue cards
 
 or
 
-"I shouldn't waste Change Color."
+i should save reverse for draw stacks
 
-Things I think ONE still needs
+or
 
-These aren't criticisms—just areas I'd keep building.
+i shouldnt waste change color
 
-A stronger identity
+things i think one still needs
 
-Right now people would probably say:
+these arent criticisms—just areas id keep building
 
-"Oh, that's UNO with more mechanics."
+a stronger identity
 
-The gameplay is becoming its own thing, but the presentation hasn't fully caught up yet.
+right now ppl would prolly say
 
-A standout mechanic
+oh thats uno with more mechanics
 
-Knock is close.
+the gameplay is becoming its own thing but the presentation hasnt fully caught up yet
 
-If you added one more signature feature that nobody expects, ONE would be much easier to remember.
+a standout mechanic
 
-More player information
+knock is close
 
-You've already thought about this:
+if u added one more signature feature that nobody expects one would be much easier to remember
 
-Current color indicator
-Turn indicator
-Reverse direction
-Opponents' card counts
+more player information
 
-Those will make multiplayer much easier to follow.
+uve already thought about this
 
-What I think is the coolest part
+current color indicator
+turn indicator
+reverse direction
+opponents card counts
 
-Oddly enough...
+those will make multiplayer much easier to follow
 
-I don't think it's Knock.
+what i think is the coolest part
 
-I think it's this rule:
+oddly enough
 
-Special cards don't follow the color rule.
+i dont think its knock
 
-That tiny decision changes the entire pace of the game.
+i think its this rule
 
-UNO often has turns where you simply can't do anything.
+special cards dont follow the color rule
 
-ONE gives you options much more often, which keeps the game moving and makes players feel like they're making choices instead of waiting.
+that tiny decision changes the entire pace of the game
 
-If someone asked me to describe ONE in one sentence:
+uno often has turns where u simply cant do anything
 
-ONE is a fast-paced competitive card game inspired by UNO, where unrestricted special cards, draw stacking, and unique mechanics like Knock create constant opportunities to outplay your opponents.
+one gives u options much more often which keeps the game moving and makes players feel like theyre making choices instead of waiting
 
-I think that's the heart of the game as we've built it so far. And honestly, it's evolved well beyond just being "UNO but in Godot." It already has mechanics that give it its own identity—you just need to keep reinforcing those unique ideas with polish, visuals, and multiplayer.
+if sum1 asked me to describe one in one sentence
+
+one is a fast-paced competitive card game inspired by uno where unrestricted special cards draw stacking and unique mechanics like knock create constant opportunities to outplay ur opponents
+
+i think thats the heart of the game as weve built it so far and honestly its evolved well beyond just being uno but in godot it already has mechanics that give it its own identity—u just need to keep reinforcing those unique ideas with polish visuals and multiplayer
