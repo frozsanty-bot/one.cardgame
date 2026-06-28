@@ -22,6 +22,7 @@ instead of
 i cant play :(
 
 players r thinking :thinking:
+
 should i play my reverse now 
 should i save my knock
 should i change color
