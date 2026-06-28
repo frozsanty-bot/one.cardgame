@@ -19,12 +19,16 @@ that changes everything
 
 instead of
 
-i cant play :(
+## i cant play :(
 
-players r thinking :thinking:
+they are
+
+## thinking :thinking:
 
 should i play my reverse now 
+
 should i save my knock
+
 should i change color
 
 that creates constant decisions
@@ -56,8 +60,11 @@ a draw 2 isnt just a draw 2
 its also
 
 defense
+
 offense
+
 combo starter
+
 draw stack extender
 
 same for self skip
